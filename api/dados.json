@@ -2,22 +2,22 @@
   {
     "termo": "flopou",
     "definicao": "? uma g?ria para falar que algo n?o atingiu as expectativas do p?blico, n?o obteve aten??o ou n?o teve o resultado esperado. A palavra deriva do ingl?s ?flop?, que em sua tradu??o literal significa fracassar.",
-    "percentual": 2000,
-    "data_atualizacao": "2023-04-10T03:00:00.000Z",
+    "percentual": "2000",
+    "data_atualizacao": "10/04/2023",
     "categoria": "Atualidades"
   },
   {
     "termo": "chatgpt",
     "definicao": "? um chatbot com intelig?ncia artificial (IA) que interage com humanos e fornece solu??es em texto para diversos tipos de questionamentos. ",
-    "percentual": 1500,
-    "data_atualizacao": "2023-04-10T03:00:00.000Z",
+    "percentual": "1500",
+    "data_atualizacao": "10/04/2023",
     "categoria": "Atualidades"
   },
   {
     "termo": "icms",
     "definicao": "? um tributo estadual que incide sobre produtos de diferentes tipos, desde eletrodom?sticos a chicletes, e que se aplica tanto a comercializa??o dentro do pa?s como em bens importados.",
-    "percentual": 300,
-    "data_atualizacao": "2023-04-10T03:00:00.000Z",
+    "percentual": "300",
+    "data_atualizacao": "10/04/2023",
     "categoria": "Economia"
   }
 ]
