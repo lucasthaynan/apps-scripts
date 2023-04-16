@@ -3,21 +3,35 @@
     "termo": "flopou",
     "definicao": "E uma giria para falar que algo nao atingiu as expectativas do publico, nao obteve atencao ou nao teve o resultado esperado. A palavra deriva do ingles ?flop?, que em sua traducao literal significa fracassar.",
     "percentual": "2000",
-    "data_atualizacao": "Mon Apr 10 2023 00:00:00 GMT-0300 (Brasilia Standard Time)",
+    "data_atualizacao": "Mon Apr 10 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
     "categoria": "Atualidades"
   },
   {
     "termo": "chatgpt",
     "definicao": "E um chatbot com inteligencia artificial (IA) que interage com humanos e fornece solucoes em texto para diversos tipos de questionamentos. ",
     "percentual": "1500",
-    "data_atualizacao": "Mon Apr 10 2023 00:00:00 GMT-0300 (Brasilia Standard Time)",
+    "data_atualizacao": "Mon Apr 10 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
     "categoria": "Atualidades"
   },
   {
     "termo": "icms",
     "definicao": "E um tributo estadual que incide sobre produtos de diferentes tipos, desde eletrodomesticos a chicletes, e que se aplica tanto a comercializacao dentro do pais como em bens importados.",
     "percentual": "300",
-    "data_atualizacao": "Mon Apr 10 2023 00:00:00 GMT-0300 (Brasilia Standard Time)",
+    "data_atualizacao": "Mon Apr 10 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
     "categoria": "Economia"
+  },
+  {
+    "termo": "bitcoin",
+    "definicao": "E uma criptomoeda descentralizada e mundialmente famosa, criada em 2009. Ele permite transacoes financeiras sem intermediarios.",
+    "percentual": "4000",
+    "data_atualizacao": "Sat Apr 15 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
+    "categoria": "Atualidades"
+  },
+  {
+    "termo": "veganismo",
+    "definicao": "E um estilo de vida baseado em nao consumir nenhum produto de origem animal.",
+    "percentual": "3000",
+    "data_atualizacao": "Sat Apr 15 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
+    "categoria": "Saude"
   }
 ]
