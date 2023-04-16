@@ -1,44 +1,23 @@
 [
   {
-    "source": "Tratto Entretenimentos",
-    "weekly_date": "2022-03-03",
-    "lista_cantores": "['JC NO BEAT', ' MC Teteu', ' DJ F7']",
-    "nome_musica": "Eu Vou Machucar S? um Pouquinho X Catucando Gostosinho"
+    "termo": "flopou",
+    "definicao": "? uma g?ria para falar que algo n?o atingiu as expectativas do p?blico, n?o obteve aten??o ou n?o teve o resultado esperado. A palavra deriva do ingl?s ?flop?, que em sua tradu??o literal significa fracassar.",
+    "percentual": 2000,
+    "data_atualizacao": "2023-04-10T03:00:00.000Z",
+    "categoria": "Atualidades"
   },
   {
-    "source": "Hungria Hip Hop",
-    "weekly_date": "2022-03-03",
-    "lista_cantores": "['Hungria Hip Hop', ' MC Ryan SP']",
-    "nome_musica": "Cruzeiro da Revoada"
+    "termo": "chatgpt",
+    "definicao": "? um chatbot com intelig?ncia artificial (IA) que interage com humanos e fornece solu??es em texto para diversos tipos de questionamentos. ",
+    "percentual": 1500,
+    "data_atualizacao": "2023-04-10T03:00:00.000Z",
+    "categoria": "Atualidades"
   },
   {
-    "source": "Universal Music Ltda.",
-    "weekly_date": "2022-03-03",
-    "lista_cantores": "['Kaio Viana', ' MC CJ']",
-    "nome_musica": "Formosa"
-  },
-  {
-    "source": "Mainstreet Records",
-    "weekly_date": "2022-03-03",
-    "lista_cantores": "['Mc Poze do Rodo', ' Bielzin', ' Mainstreet', ' MC Cabelinho', ' PL Quest', ' Neo Beats']",
-    "nome_musica": "A Cara do Crime (N?s Incomoda)"
-  },
-  {
-    "source": "Funk Explode Records",
-    "weekly_date": "2022-03-03",
-    "lista_cantores": "['MC Braz', ' MC Gabluca']",
-    "nome_musica": "Joga na Cara"
-  },
-  {
-    "source": "Warner Records",
-    "weekly_date": "2022-03-03",
-    "lista_cantores": "['Anitta', ' Saweetie']",
-    "nome_musica": "Faking Love (feat. Saweetie)"
-  },
-  {
-    "source": "Pear Music",
-    "weekly_date": "2022-03-03",
-    "lista_cantores": "['DJ Jeeh FDC', ' MC Meno Dani', ' DJ Cyclone']",
-    "nome_musica": "Voltei pra Cachorrada"
+    "termo": "icms",
+    "definicao": "? um tributo estadual que incide sobre produtos de diferentes tipos, desde eletrodom?sticos a chicletes, e que se aplica tanto a comercializa??o dentro do pa?s como em bens importados.",
+    "percentual": 300,
+    "data_atualizacao": "2023-04-10T03:00:00.000Z",
+    "categoria": "Economia"
   }
 ]
