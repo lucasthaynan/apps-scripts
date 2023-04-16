@@ -16,14 +16,14 @@
   {
     "termo": "icms",
     "definicao": "E um tributo estadual que incide sobre produtos de diferentes tipos, desde eletrodomesticos a chicletes, e que se aplica tanto a comercializacao dentro do pais como em bens importados.",
-    "percentual": "300",
+    "percentual": "700",
     "data_atualizacao": "Mon Apr 10 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
     "categoria": "Economia"
   },
   {
     "termo": "bitcoin",
     "definicao": "E uma criptomoeda descentralizada e mundialmente famosa, criada em 2009. Ele permite transacoes financeiras sem intermediarios.",
-    "percentual": "4000",
+    "percentual": "2500",
     "data_atualizacao": "Sat Apr 15 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
     "categoria": "Atualidades"
   },
