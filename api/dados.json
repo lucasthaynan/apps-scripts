@@ -1,6 +1,7 @@
 [
   {
     "id_semana": "01",
+    "id_termo": "1",
     "termo": "pack do pe",
     "definicao": "O pack do pe nada mais e do que uma colecao de imagens ou ate videos de pes, mas, em geral, o interesse esta mais nos pes femininos.",
     "categoria": "Entretenimento",
@@ -11,6 +12,7 @@
   },
   {
     "id_semana": "01",
+    "id_termo": "2",
     "termo": "bascula",
     "definicao": "Dispositivo mecanico utilizado para pesagem de objetos, composto por duas plataformas interligadas.",
     "categoria": "Variedades",
@@ -21,6 +23,7 @@
   },
   {
     "id_semana": "01",
+    "id_termo": "3",
     "termo": "capeba",
     "definicao": "Planta herbacea que produz bulbos comestiveis, conhecida tambem como cebola-de-cabeca.",
     "categoria": "Saude/Meio Ambiente",
@@ -31,6 +34,7 @@
   },
   {
     "id_semana": "01",
+    "id_termo": "4",
     "termo": "sepsemia",
     "definicao": "Condicao grave de infeccao no organismo, caracterizada pela presenca de bacterias na corrente sanguinea.",
     "categoria": "Saude/Meio Ambiente",
@@ -41,6 +45,7 @@
   },
   {
     "id_semana": "01",
+    "id_termo": "5",
     "termo": "gsi",
     "definicao": "Sigla para Gabinete de Seguranca Institucional, orgao responsavel pela seguranca do presidente e do governo.",
     "categoria": "Economia/Politica",
@@ -51,6 +56,7 @@
   },
   {
     "id_semana": "01",
+    "id_termo": "6",
     "termo": "tenia",
     "definicao": "Tipo de parasita intestinal, popularmente conhecido como solitaria.",
     "categoria": "Saude/Meio Ambiente",
@@ -61,6 +67,7 @@
   },
   {
     "id_semana": "01",
+    "id_termo": "7",
     "termo": "frangofilia",
     "definicao": "Admiracao ou obsessao por frangos, popularmente conhecida como \"amor por frangos\".",
     "categoria": "Variedades",
@@ -71,6 +78,7 @@
   },
   {
     "id_semana": "01",
+    "id_termo": "8",
     "termo": "cpmi",
     "definicao": "Sigla para Comissao Parlamentar Mista de Inquerito, comissao formada por deputados e senadores para investigacoes.",
     "categoria": "Economia/Politica",
@@ -81,6 +89,7 @@
   },
   {
     "id_semana": "01",
+    "id_termo": "9",
     "termo": "munguza salgado",
     "definicao": "Prato tipico da culinaria brasileira, feito com milho branco, leite de coco e sal.",
     "categoria": "Saude/Meio Ambiente",
