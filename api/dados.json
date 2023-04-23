@@ -97,5 +97,49 @@
     "percentual": "700",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
     "categoria_trends": "comida e bebida"
+  },
+  {
+    "id_semana": "01",
+    "id_termo": "10",
+    "termo": "furcula",
+    "definicao": "Estrutura ossea em forma de \"V\" encontrada em aves e repteis, tambem conhecida como \"osso da sorte\".",
+    "categoria": "Saude/Meio Ambiente",
+    "url_youtube": "",
+    "percentual": "500",
+    "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
+    "categoria_trends": "ciencia"
+  },
+  {
+    "id_semana": "01",
+    "id_termo": "11",
+    "termo": "terafins",
+    "definicao": "Seres angelicais que, segundo algumas tradicoes religiosas, ocupam uma posicao elevada na hierarquia divina.",
+    "categoria": "Variedades",
+    "url_youtube": "",
+    "percentual": "450",
+    "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
+    "categoria_trends": "todas"
+  },
+  {
+    "id_semana": "01",
+    "id_termo": "12",
+    "termo": "tiradentes",
+    "definicao": "Martir da Inconfidencia Mineira, considerado um heroi nacional pela luta contra o dominio portugues.",
+    "categoria": "Variedades",
+    "url_youtube": "",
+    "percentual": "400",
+    "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
+    "categoria_trends": "todas"
+  },
+  {
+    "id_semana": "01",
+    "id_termo": "13",
+    "termo": "ensino regular",
+    "definicao": "Modalidade de ensino presencial, oferecido em escolas publicas e particulares, para criancas e adolescentes.",
+    "categoria": "Atualidades",
+    "url_youtube": "",
+    "percentual": "400",
+    "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
+    "categoria_trends": "todas"
   }
 ]
