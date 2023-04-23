@@ -7,6 +7,7 @@
     "categoria": "Entretenimento",
     "url_youtube": "",
     "percentual": "4950",
+    "vezes_subida": "50.5",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
     "categoria_trends": "jogos"
   },
@@ -18,6 +19,7 @@
     "categoria": "Variedades",
     "url_youtube": "",
     "percentual": "4500",
+    "vezes_subida": "46",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
     "categoria_trends": "todas"
   },
@@ -29,6 +31,7 @@
     "categoria": "Saude/Meio Ambiente",
     "url_youtube": "",
     "percentual": "3000",
+    "vezes_subida": "31",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
     "categoria_trends": "comida e bebida"
   },
@@ -40,6 +43,7 @@
     "categoria": "Saude/Meio Ambiente",
     "url_youtube": "",
     "percentual": "2500",
+    "vezes_subida": "26",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
     "categoria_trends": "todas"
   },
@@ -51,6 +55,7 @@
     "categoria": "Economia/Politica",
     "url_youtube": "",
     "percentual": "2400",
+    "vezes_subida": "25",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
     "categoria_trends": "todas"
   },
@@ -62,6 +67,7 @@
     "categoria": "Saude/Meio Ambiente",
     "url_youtube": "",
     "percentual": "2350",
+    "vezes_subida": "24.5",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
     "categoria_trends": "todas"
   },
@@ -73,6 +79,7 @@
     "categoria": "Variedades",
     "url_youtube": "",
     "percentual": "2100",
+    "vezes_subida": "22",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
     "categoria_trends": "todas"
   },
@@ -84,6 +91,7 @@
     "categoria": "Economia/Politica",
     "url_youtube": "",
     "percentual": "1950",
+    "vezes_subida": "20.5",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
     "categoria_trends": "todas"
   },
@@ -95,6 +103,7 @@
     "categoria": "Saude/Meio Ambiente",
     "url_youtube": "",
     "percentual": "700",
+    "vezes_subida": "8",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
     "categoria_trends": "comida e bebida"
   },
@@ -106,6 +115,7 @@
     "categoria": "Saude/Meio Ambiente",
     "url_youtube": "",
     "percentual": "500",
+    "vezes_subida": "6",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
     "categoria_trends": "ciencia"
   },
@@ -117,6 +127,7 @@
     "categoria": "Variedades",
     "url_youtube": "",
     "percentual": "450",
+    "vezes_subida": "5.5",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
     "categoria_trends": "todas"
   },
@@ -128,6 +139,7 @@
     "categoria": "Variedades",
     "url_youtube": "",
     "percentual": "400",
+    "vezes_subida": "5",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
     "categoria_trends": "todas"
   },
@@ -139,6 +151,7 @@
     "categoria": "Atualidades",
     "url_youtube": "",
     "percentual": "400",
+    "vezes_subida": "5",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
     "categoria_trends": "todas"
   }
