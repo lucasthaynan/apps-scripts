@@ -5,11 +5,13 @@
     "termo": "pack do pe",
     "definicao": "O pack do pe nada mais e do que uma colecao de imagens ou ate videos de pes, mas, em geral, o interesse esta mais nos pes femininos.",
     "categoria": "Entretenimento",
-    "url_youtube": "",
     "percentual": "4950",
     "vezes_subida": "50.5",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
-    "categoria_trends": "jogos"
+    "categoria_trends": "jogos",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
   },
   {
     "id_semana": "1",
@@ -17,11 +19,13 @@
     "termo": "bascula",
     "definicao": "Dispositivo mecanico utilizado para pesagem de objetos, composto por duas plataformas interligadas.",
     "categoria": "Variedades",
-    "url_youtube": "",
     "percentual": "4500",
     "vezes_subida": "46",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
-    "categoria_trends": "todas"
+    "categoria_trends": "todas",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
   },
   {
     "id_semana": "1",
@@ -29,11 +33,13 @@
     "termo": "capeba",
     "definicao": "Planta herbacea que produz bulbos comestiveis, conhecida tambem como cebola-de-cabeca.",
     "categoria": "Saude/Meio Ambiente",
-    "url_youtube": "",
     "percentual": "3000",
     "vezes_subida": "31",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
-    "categoria_trends": "comida e bebida"
+    "categoria_trends": "comida e bebida",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
   },
   {
     "id_semana": "1",
@@ -41,11 +47,13 @@
     "termo": "sepsemia",
     "definicao": "Condicao grave de infeccao no organismo, caracterizada pela presenca de bacterias na corrente sanguinea.",
     "categoria": "Saude/Meio Ambiente",
-    "url_youtube": "",
     "percentual": "2500",
     "vezes_subida": "26",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
-    "categoria_trends": "todas"
+    "categoria_trends": "todas",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
   },
   {
     "id_semana": "1",
@@ -53,11 +61,13 @@
     "termo": "gsi",
     "definicao": "Sigla para Gabinete de Seguranca Institucional, orgao responsavel pela seguranca do presidente e do governo.",
     "categoria": "Economia/Politica",
-    "url_youtube": "",
     "percentual": "2400",
     "vezes_subida": "25",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
-    "categoria_trends": "todas"
+    "categoria_trends": "todas",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
   },
   {
     "id_semana": "1",
@@ -65,11 +75,13 @@
     "termo": "tenia",
     "definicao": "Tipo de parasita intestinal, popularmente conhecido como solitaria.",
     "categoria": "Saude/Meio Ambiente",
-    "url_youtube": "",
     "percentual": "2350",
     "vezes_subida": "24.5",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
-    "categoria_trends": "todas"
+    "categoria_trends": "todas",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
   },
   {
     "id_semana": "1",
@@ -77,11 +89,13 @@
     "termo": "frangofilia",
     "definicao": "Admiracao ou obsessao por frangos, popularmente conhecida como \"amor por frangos\".",
     "categoria": "Variedades",
-    "url_youtube": "",
     "percentual": "2100",
     "vezes_subida": "22",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
-    "categoria_trends": "todas"
+    "categoria_trends": "todas",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
   },
   {
     "id_semana": "1",
@@ -89,11 +103,13 @@
     "termo": "cpmi",
     "definicao": "Sigla para Comissao Parlamentar Mista de Inquerito, comissao formada por deputados e senadores para investigacoes.",
     "categoria": "Economia/Politica",
-    "url_youtube": "",
     "percentual": "1950",
     "vezes_subida": "20.5",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
-    "categoria_trends": "todas"
+    "categoria_trends": "todas",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
   },
   {
     "id_semana": "1",
@@ -101,11 +117,13 @@
     "termo": "munguza salgado",
     "definicao": "Prato tipico da culinaria brasileira, feito com milho branco, leite de coco e sal.",
     "categoria": "Saude/Meio Ambiente",
-    "url_youtube": "",
     "percentual": "700",
     "vezes_subida": "8",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
-    "categoria_trends": "comida e bebida"
+    "categoria_trends": "comida e bebida",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
   },
   {
     "id_semana": "1",
@@ -113,11 +131,13 @@
     "termo": "furcula",
     "definicao": "Estrutura ossea em forma de \"V\" encontrada em aves e repteis, tambem conhecida como \"osso da sorte\".",
     "categoria": "Saude/Meio Ambiente",
-    "url_youtube": "",
     "percentual": "500",
     "vezes_subida": "6",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
-    "categoria_trends": "ciencia"
+    "categoria_trends": "ciencia",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
   },
   {
     "id_semana": "1",
@@ -125,11 +145,13 @@
     "termo": "terafins",
     "definicao": "Seres angelicais que, segundo algumas tradicoes religiosas, ocupam uma posicao elevada na hierarquia divina.",
     "categoria": "Variedades",
-    "url_youtube": "",
     "percentual": "450",
     "vezes_subida": "5.5",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
-    "categoria_trends": "todas"
+    "categoria_trends": "todas",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
   },
   {
     "id_semana": "1",
@@ -137,11 +159,13 @@
     "termo": "tiradentes",
     "definicao": "Martir da Inconfidencia Mineira, considerado um heroi nacional pela luta contra o dominio portugues.",
     "categoria": "Variedades",
-    "url_youtube": "",
     "percentual": "400",
     "vezes_subida": "5",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
-    "categoria_trends": "todas"
+    "categoria_trends": "todas",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
   },
   {
     "id_semana": "1",
@@ -149,10 +173,152 @@
     "termo": "ensino regular",
     "definicao": "Modalidade de ensino presencial, oferecido em escolas publicas e particulares, para criancas e adolescentes.",
     "categoria": "Atualidades",
-    "url_youtube": "",
     "percentual": "400",
     "vezes_subida": "5",
     "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
-    "categoria_trends": "todas"
+    "categoria_trends": "todas",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
+  },
+  {
+    "id_semana": "2",
+    "id_termo": "14",
+    "termo": "partenopeu",
+    "definicao": "Heroi lendario da mitologia grega, fundador da cidade de Napoles, na Italia.",
+    "categoria": "Entretenimento",
+    "percentual": "4700",
+    "vezes_subida": "48",
+    "data_atualizacao": "Sun Apr 30 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
+    "categoria_trends": "todas",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
+  },
+  {
+    "id_semana": "2",
+    "id_termo": "15",
+    "termo": "cpx",
+    "definicao": "CPX e a abreviacao de Complexo, palavra utilizada para referir-se a comunidades do Rio de Janeiro, a exemplo do Complexo do Alemao, Complexo da Penha, Complexo Lemos de Brito, Complexo do Sao Carlos, dentre outros",
+    "categoria": "Variedades",
+    "percentual": "1650",
+    "vezes_subida": "17.5",
+    "data_atualizacao": "Sun Apr 30 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
+    "categoria_trends": "todas",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
+  },
+  {
+    "id_semana": "2",
+    "id_termo": "16",
+    "termo": "pl 2630",
+    "definicao": "Projeto de lei brasileiro que visa regulamentar a moderacao de conteudo nas redes sociais. Tambem conhecido como \"Lei das Fake News\".",
+    "categoria": "Economia/Politica",
+    "percentual": "1450",
+    "vezes_subida": "15.5",
+    "data_atualizacao": "Sun Apr 30 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
+    "categoria_trends": "todas",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
+  },
+  {
+    "id_semana": "2",
+    "id_termo": "17",
+    "termo": "odometro",
+    "definicao": "Instrumento que mede a distancia percorrida por um veiculo. E comumente utilizado em automoveis para monitorar a quilometragem.",
+    "categoria": "Variedades",
+    "percentual": "700",
+    "vezes_subida": "8",
+    "data_atualizacao": "Sun Apr 30 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
+    "categoria_trends": "todas",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
+  },
+  {
+    "id_semana": "2",
+    "id_termo": "18",
+    "termo": "assexual",
+    "definicao": "Termo utilizado para descrever pessoas que nao tem atracao sexual por nenhuma pessoa, independentemente do genero ou da aparencia fisica.",
+    "categoria": "Saude/Meio Ambiente",
+    "percentual": "650",
+    "vezes_subida": "7.5",
+    "data_atualizacao": "Sun Apr 30 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
+    "categoria_trends": "todas",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
+  },
+  {
+    "id_semana": "2",
+    "id_termo": "19",
+    "termo": "taxa selic",
+    "definicao": "Sigla para \"Sistema Especial de Liquidacao e Custodia\". E a taxa de juros basica da economia brasileira e e utilizada como referencia para diversas operacoes financeiras.",
+    "categoria": "Economia/Politica",
+    "percentual": "550",
+    "vezes_subida": "6.5",
+    "data_atualizacao": "Sun Apr 30 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
+    "categoria_trends": "todas",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
+  },
+  {
+    "id_semana": "2",
+    "id_termo": "20",
+    "termo": "variola humana",
+    "definicao": "Doenca infecciosa grave, causada por um virus, que foi erradicada no mundo em 1980 por meio de uma campanha global de vacinacao.",
+    "categoria": "Saude/Meio Ambiente",
+    "percentual": "1150",
+    "vezes_subida": "12.5",
+    "data_atualizacao": "Sun Apr 30 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
+    "categoria_trends": "saude",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
+  },
+  {
+    "id_semana": "2",
+    "id_termo": "21",
+    "termo": "urticaria autoimune",
+    "definicao": "Doenca autoimune em que o sistema imunologico ataca as celulas do proprio corpo, causando inflamacao na pele e formacao de urticarias. Pode ser tratada com medicamentos imunossupressores.",
+    "categoria": "Saude/Meio Ambiente",
+    "percentual": "2200",
+    "vezes_subida": "23",
+    "data_atualizacao": "Sun Apr 30 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
+    "categoria_trends": "saude",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
+  },
+  {
+    "id_semana": "2",
+    "id_termo": "22",
+    "termo": "hostel",
+    "definicao": "Tipo de acomodacao que oferece dormitorios compartilhados a precos acessiveis para viajantes. Tambem conhecido como albergue.",
+    "categoria": "Atualidades",
+    "percentual": "3550",
+    "vezes_subida": "36.5",
+    "data_atualizacao": "Sun Apr 30 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
+    "categoria_trends": "viagem",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
+  },
+  {
+    "id_semana": "2",
+    "id_termo": "23",
+    "termo": "misoginia",
+    "definicao": "Preconceito e aversao as mulheres, manifestado por atitudes e comportamentos discriminatorios. E uma forma de sexismo que pode levar a violencia contra as mulheres.",
+    "categoria": "Atualidades",
+    "percentual": "450",
+    "vezes_subida": "5.5",
+    "data_atualizacao": "Sun Apr 30 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
+    "categoria_trends": "viagem",
+    "url_youtube": "",
+    "url_materia": "",
+    "url_foto_materia": ""
   }
 ]
