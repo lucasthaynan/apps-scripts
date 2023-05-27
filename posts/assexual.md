@@ -1,0 +1,33 @@
+---
+id_semana: 2
+id_termo: 18
+status: novo
+termo: assexual
+definicao: Termo utilizado para descrever pessoas que nao tem atracao sexual por nenhuma pessoa, independentemente do genero ou da aparencia fisica.
+categoria: Saude
+percentual: 650
+vezes_subida: 7.5
+data_atualizacao: Sun Apr 30 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)
+categoria_trends: todas
+buscas_dia_semana: 
+url_youtube: 
+url_materia: 
+url_foto_materia: 
+---
+
+{
+  "id_semana": "2",
+  "id_termo": "18",
+  "status": "novo",
+  "termo": "assexual",
+  "definicao": "Termo utilizado para descrever pessoas que nao tem atracao sexual por nenhuma pessoa, independentemente do genero ou da aparencia fisica.",
+  "categoria": "Saude",
+  "percentual": "650",
+  "vezes_subida": "7.5",
+  "data_atualizacao": "Sun Apr 30 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
+  "categoria_trends": "todas",
+  "buscas_dia_semana": "",
+  "url_youtube": "",
+  "url_materia": "",
+  "url_foto_materia": ""
+}
