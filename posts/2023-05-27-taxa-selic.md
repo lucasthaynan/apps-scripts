@@ -1,0 +1,33 @@
+---
+id_semana: 2
+id_termo: 19
+status: novo
+termo: taxa selic
+definicao: Sigla para "Sistema Especial de Liquidacao e Custodia". E a taxa de juros basica da economia brasileira e e utilizada como referencia para diversas operacoes financeiras.
+categoria: Economia
+percentual: 550
+vezes_subida: 6.5
+data_atualizacao: Sun Apr 30 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)
+categoria_trends: todas
+buscas_dia_semana: 
+url_youtube: 
+url_materia: 
+url_foto_materia: 
+---
+
+{
+  "id_semana": "2",
+  "id_termo": "19",
+  "status": "novo",
+  "termo": "taxa selic",
+  "definicao": "Sigla para \"Sistema Especial de Liquidacao e Custodia\". E a taxa de juros basica da economia brasileira e e utilizada como referencia para diversas operacoes financeiras.",
+  "categoria": "Economia",
+  "percentual": "550",
+  "vezes_subida": "6.5",
+  "data_atualizacao": "Sun Apr 30 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
+  "categoria_trends": "todas",
+  "buscas_dia_semana": "",
+  "url_youtube": "",
+  "url_materia": "",
+  "url_foto_materia": ""
+}
