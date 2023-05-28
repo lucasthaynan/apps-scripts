@@ -14,7 +14,7 @@ Conte?do: Doenca infecciosa grave, causada por um virus, que foi erradicada no m
   "categoria": "Saude",
   "percentual": "1150",
   "vezes_subida": "12.5",
-  "data_atualizacao": "Sun Apr 30 2023 00:00:00 GMT-0300 (Brasilia Standard Time)",
+  "data_atualizacao": "Sun Apr 30 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
   "categoria_trends": "saude",
   "buscas_dia_semana": "",
   "url_youtube": "",
