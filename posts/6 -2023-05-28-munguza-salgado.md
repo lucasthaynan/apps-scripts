@@ -14,7 +14,7 @@ Conte?do: Prato tipico da culinaria brasileira, feito com milho branco, leite de
   "categoria": "Cultura",
   "percentual": "700",
   "vezes_subida": "8",
-  "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Brasilia Standard Time)",
+  "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
   "categoria_trends": "comida e bebida",
   "buscas_dia_semana": "",
   "url_youtube": "",
