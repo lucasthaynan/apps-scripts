@@ -14,7 +14,7 @@ Conte?do: Admiracao ou obsessao por frangos, popularmente conhecida como "amor p
   "categoria": "Saude",
   "percentual": "2100",
   "vezes_subida": "22",
-  "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Brasilia Standard Time)",
+  "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
   "categoria_trends": "todas",
   "buscas_dia_semana": "",
   "url_youtube": "",
