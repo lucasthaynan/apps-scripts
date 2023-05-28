@@ -14,7 +14,7 @@ Conte?do: Modalidade de ensino presencial, oferecido em escolas publicas e parti
   "categoria": "Economia",
   "percentual": "400",
   "vezes_subida": "5",
-  "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Brasilia Standard Time)",
+  "data_atualizacao": "Sat Apr 22 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
   "categoria_trends": "todas",
   "buscas_dia_semana": "",
   "url_youtube": "",
