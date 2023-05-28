@@ -14,7 +14,7 @@ Conte?do: Doenca autoimune em que o sistema imunologico ataca as celulas do prop
   "categoria": "Saude",
   "percentual": "2200",
   "vezes_subida": "23",
-  "data_atualizacao": "Sun Apr 30 2023 00:00:00 GMT-0300 (Brasilia Standard Time)",
+  "data_atualizacao": "Sun Apr 30 2023 00:00:00 GMT-0300 (Horario Padrao de Brasilia)",
   "categoria_trends": "saude",
   "buscas_dia_semana": "",
   "url_youtube": "",
