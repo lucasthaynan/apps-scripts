@@ -1,6 +1,6 @@
 [
   {
-    "id_semana": "1",
+    "id_semana": 1,
     "id_termo": 1,
     "status": "novo",
     "termo": "pack do p?",
@@ -16,7 +16,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "1",
+    "id_semana": 1,
     "id_termo": 2,
     "status": "novo",
     "termo": "bascula",
@@ -32,7 +32,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "1",
+    "id_semana": 1,
     "id_termo": 3,
     "status": "novo",
     "termo": "capeba",
@@ -48,7 +48,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "1",
+    "id_semana": 1,
     "id_termo": 4,
     "status": "novo",
     "termo": "sepsemia",
@@ -64,7 +64,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "1",
+    "id_semana": 1,
     "id_termo": 5,
     "status": "novo",
     "termo": "gsi",
@@ -80,7 +80,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "1",
+    "id_semana": 1,
     "id_termo": 6,
     "status": "novo",
     "termo": "t?nia",
@@ -96,7 +96,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "1",
+    "id_semana": 1,
     "id_termo": 7,
     "status": "novo",
     "termo": "frangofilia",
@@ -112,7 +112,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "1",
+    "id_semana": 1,
     "id_termo": 8,
     "status": "novo",
     "termo": "cpmi",
@@ -128,7 +128,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "1",
+    "id_semana": 1,
     "id_termo": 9,
     "status": "novo",
     "termo": "munguz? salgado",
@@ -144,7 +144,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "1",
+    "id_semana": 1,
     "id_termo": 10,
     "status": "novo",
     "termo": "f?rcula",
@@ -160,7 +160,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "1",
+    "id_semana": 1,
     "id_termo": 11,
     "status": "novo",
     "termo": "terafins",
@@ -176,7 +176,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "1",
+    "id_semana": 1,
     "id_termo": 12,
     "status": "novo",
     "termo": "tiradentes",
@@ -192,7 +192,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "1",
+    "id_semana": 1,
     "id_termo": 13,
     "status": "novo",
     "termo": "ensino regular",
@@ -208,7 +208,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "2",
+    "id_semana": 2,
     "id_termo": 14,
     "status": "novo",
     "termo": "partenopeu",
@@ -224,7 +224,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "2",
+    "id_semana": 2,
     "id_termo": 15,
     "status": "novo",
     "termo": "cpx",
@@ -240,7 +240,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "2",
+    "id_semana": 2,
     "id_termo": 16,
     "status": "novo",
     "termo": "pl 2630",
@@ -256,7 +256,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "2",
+    "id_semana": 2,
     "id_termo": 17,
     "status": "novo",
     "termo": "odometro",
@@ -272,7 +272,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "2",
+    "id_semana": 2,
     "id_termo": 18,
     "status": "novo",
     "termo": "assexual",
@@ -288,7 +288,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "2",
+    "id_semana": 2,
     "id_termo": 19,
     "status": "novo",
     "termo": "taxa selic",
@@ -304,7 +304,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "2",
+    "id_semana": 2,
     "id_termo": 20,
     "status": "novo",
     "termo": "variola humana",
@@ -320,7 +320,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "2",
+    "id_semana": 2,
     "id_termo": 21,
     "status": "novo",
     "termo": "urtic?ria autoimune",
@@ -336,7 +336,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "2",
+    "id_semana": 2,
     "id_termo": 22,
     "status": "novo",
     "termo": "hostel",
@@ -352,7 +352,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "2",
+    "id_semana": 2,
     "id_termo": 23,
     "status": "novo",
     "termo": "",
@@ -368,7 +368,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "1",
+    "id_semana": 1,
     "id_termo": 2,
     "status": "termo existente",
     "termo": "",
@@ -384,7 +384,7 @@
     "url_foto_materia": ""
   },
   {
-    "id_semana": "1",
+    "id_semana": 1,
     "id_termo": 5,
     "status": "termo semelhante",
     "termo": "",
