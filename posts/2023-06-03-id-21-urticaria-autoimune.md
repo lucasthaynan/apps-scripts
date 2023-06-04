@@ -2,7 +2,7 @@
 layout: post
 title: urticária autoimune
 categories: Saúde
-classe_categoria: #cccccc
+classe_categoria: saude
 url_short: nan
 permalink: urticaria-autoimune
 ---
