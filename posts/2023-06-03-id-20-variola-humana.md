@@ -2,7 +2,7 @@
 layout: post
 title: variola humana
 categories: Saúde
-classe_categoria: #cccccc
+classe_categoria: saude
 url_short: https://www.youtube.com/embed/lTuuVsDiXUw
 permalink: variola-humana
 ---
