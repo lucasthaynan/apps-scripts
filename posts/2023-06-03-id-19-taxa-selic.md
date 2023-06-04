@@ -2,7 +2,7 @@
 layout: post
 title: taxa selic
 categories: Economia
-classe_categoria: #4285f4
+classe_categoria: economia
 url_short: https://www.youtube.com/embed/lTuuVsDiXUw
 permalink: taxa-selic
 ---
