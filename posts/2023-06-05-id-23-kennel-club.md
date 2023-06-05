@@ -1,8 +1,8 @@
 ---
 layout: post
 title: kennel club
-categories: Cultura
-classe_categoria: cultura
+categories: Saúde
+classe_categoria: saude
 url_short: https://www.youtube.com/embed/lTuuVsDiXUw
 permalink: kennel-club
 ---
