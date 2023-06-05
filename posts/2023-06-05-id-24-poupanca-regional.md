@@ -1,8 +1,8 @@
 ---
 layout: post
 title: poupança regional
-categories: Saúde
-classe_categoria: saude
+categories: Economia
+classe_categoria: economia
 url_short: https://www.youtube.com/embed/lTuuVsDiXUw
 permalink: poupanca-regional
 ---
